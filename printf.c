@@ -1,2 +1,4 @@
 #include <stdio.h> 
-int main(){printf(Ola, mundo)};
+int main(){
+printf("Ola, mundo");
+}
