@@ -1,1 +1,3 @@
-Tema do Guia: Fundamentos da Linguagem C; Quem é o público-alvo? Estudantes sem experiência em Programação; Qual o resultado esperado? Ao finalizar o guia, espera-se que o leitor seja capaz de programar o básico da Linguagem C, criar exercícios de prática, e melhorar a lógica de programação.
+-Tema do Guia: Fundamentos da Linguagem C;
+-Quem é o público-alvo? Estudantes sem experiência em Programação;
+-Qual o resultado esperado? Ao finalizar o guia, espera-se que o leitor seja capaz de programar o básico da Linguagem C, criar exercícios de prática, e melhorar a lógica de programação.
