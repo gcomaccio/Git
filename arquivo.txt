@@ -1,1 +1,1 @@
-Bankai
+O comando echo serve para lidar com textos.
