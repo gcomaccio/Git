@@ -1,0 +1,113 @@
+[33mcommit 7f2c0319430fe7f3f2368d5c3b4f6580d12273b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a1d9684 a7a01d1
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Sat Aug 15 15:04:24 2026 -0300
+
+    Resolve merge: remove arquivo.txt e file.txt
+
+[33mcommit a1d9684e23a85b1364232ca852afbe9802987b45[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Sat Aug 15 14:59:46 2026 -0300
+
+    .
+
+[33mcommit a7a01d1fb873cc4a5a51ba55321b449506e06c9d[m
+Author: gcomaccio <gcomaccio@gmail.com>
+Date:   Sat Aug 15 14:58:46 2026 -0300
+
+    Delete file.txt
+
+[33mcommit c945a3948268797d4b472dad24fa632081255b17[m
+Author: gcomaccio <gcomaccio@gmail.com>
+Date:   Sat Aug 15 14:55:46 2026 -0300
+
+    Delete arquivo.txt
+
+[33mcommit a36e26d1b985b631f1d8ec3b1d23c322bd83aab5[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Sat Aug 15 14:53:12 2026 -0300
+
+    .
+
+[33mcommit 9303379013786bdf828752249951af88ff025c9d[m
+Merge: 6d2a9b5 a140639
+Author: gcomaccio <gcomaccio@gmail.com>
+Date:   Sat Aug 15 12:03:27 2026 -0300
+
+    Merge pull request #1 from gcomaccio/teste
+    
+    Bankai do Shinsui
+
+[33mcommit a140639ba2340f91fe4da6f6e7adafd79b2ec314[m[33m ([m[1;31morigin/teste[m[33m)[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Sat Aug 15 12:01:25 2026 -0300
+
+    Bankai do Shinsui
+
+[33mcommit 6d2a9b55cd461ed2110e266d7bb8b3e75ccb3631[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Sat Aug 15 11:21:06 2026 -0300
+
+    BANKAI
+
+[33mcommit 0b653a55b2447fd9a2653e85f8b45e7cb19576d4[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Sat Aug 15 11:17:28 2026 -0300
+
+    Branch
+
+[33mcommit 0543053e8e59223058856bd2bcdc73d7d65ec2f1[m
+Author: gcomaccio <gcomaccio@gmail.com>
+Date:   Fri Aug 14 14:13:56 2026 -0300
+
+    Correção de gramática  no modulo2.md
+    
+    Adicionei uma vírgula no seguinte trecho: "por uma equipe,"
+
+[33mcommit 776e331ace9aa643329ac37eb8fb296039e41cb8[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Fri Aug 14 14:11:22 2026 -0300
+
+    Módulo 2 Tópico 17
+
+[33mcommit d231208d845b0ea95dd4f2893a9dececa9986c1f[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Fri Aug 14 00:18:30 2026 -0300
+
+    README
+
+[33mcommit c1601af967e3ba9627141560570e42da4eef8615[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Fri Aug 14 00:17:14 2026 -0300
+
+    linguagem C
+
+[33mcommit a84449491fceb4843714fc477d2e09e13547253e[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Thu Aug 13 21:23:55 2026 -0300
+
+    Publicacao em PDF
+
+[33mcommit 0ae96f28de2b80c74d6d2ff10f92bc0f3cee25c5[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Thu Aug 13 20:56:49 2026 -0300
+
+    Alteração do código C
+
+[33mcommit f0db80295fa5fa1f949d93f848b3eae07f36c526[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Thu Aug 13 20:52:58 2026 -0300
+
+    printf
+
+[33mcommit 85ce7228e2d64760a85afe1b7d72c1e176be2169[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Thu Aug 13 20:50:10 2026 -0300
+
+    Meu segundo commit]
+
+[33mcommit caa3dec7b0b9777ae5655ecfb9fb9fd3f561c2cd[m
+Author: Guilherme <gcomaccio@gmail.com>
+Date:   Thu Aug 13 20:47:24 2026 -0300
+
+    Meu primeiro commit
