@@ -1,6 +1,6 @@
--Tema: Revisando Linguagem C. Neste módulo, revisarei a linguagem C e lógica de programação com uma playlist de vídeos no YouTube do Professor Pietro Martins.
--Conteúdo: Simples printf ----> criação de arquivos.
--Objetivos: Aprender Linguagem C Git e GitHub.
+-Tema: Revisando Linguagem C. Neste módulo, revisarei a linguagem C e lógica de programação com uma playlist de vídeos no YouTube do Professor Pietro Martins;
+-Conteúdo: Simples printf ----> criação de arquivos;
+-Objetivos: Aprender Linguagem C Git e GitHub;
 -Status do projeto: Em andamento;
--Ferramentas: O Professor utiliza a IDE Dev C++, mas por preferência e costume, usarei o VS Code;
+-Ferramentas: DEV C++;e
 -Autoria: Guilherme Comaccio, 16/08/26
