@@ -1,1 +1,6 @@
-Declaração de Variáveis e Atribuição de Dados. Ao declarar uma variável, existe uma sintaxe por trás, sendo ela: <tipo> <nome>; Entre os tipos que existem são: INT, FLOAT, DOUBLE, CHAR, e LONG. Sobre a nomenclatura, é importante relembrar que: -Não é permitido utilizar números na primeira posição do nome, Ex:1IDADE; -Não é permitido utilizar caracteres especiais; e -Não pode conter espaço. Agora, sobre atribuição de dados, temos o operador '='(o que está à direita é atribuido á variável que está à esquerda do operador). A sintaxe do operador é simples: <variavel> = <informação>; CONSTANTE. A constante, diferente de uma variável, permanece a mesma, não sofrendo alterações ao longo do ćódigo. Sua sinxtaxe é: #define <nome> <valor> ou const <tipo> <nome> = <valor>;
+Declaração de Variáveis e Atribuição de Dados. Ao declarar uma variável, existe uma sintaxe por trás, sendo ela: <tipo> <nome>; Entre os tipos que existem são: INT, FLOAT, DOUBLE, CHAR, e LONG. Sobre a nomenclatura, é importante relembrar que:
+-Não é permitido utilizar números na primeira posição do nome, Ex:1IDADE; 
+-Não é permitido utilizar caracteres especiais; e 
+-Não pode conter espaço.
+Agora, sobre atribuição de dados, temos o operador '='(o que está à direita é atribuido á variável que está à esquerda do operador). A sintaxe do operador é simples: <variavel> = <informação>;
+CONSTANTE. A constante, diferente de uma variável, permanece a mesma, não sofrendo alterações ao longo do ćódigo. Sua sinxtaxe é: #define <nome> <valor> OU const <tipo> <nome> = <valor>;
